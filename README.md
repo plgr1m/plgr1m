@@ -8,7 +8,6 @@
 -TypeScript
 -PHP + Laravel
 -Kotlin
--HTML / XML / XHTML
--CSS
+-HTML / XML / XHTML / CSS
 -Oracle / MySQL / Microsoft SQL / PostgreSQL
 -MongoDB

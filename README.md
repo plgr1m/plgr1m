@@ -1,10 +1,14 @@
-- 👋 Hi, I’m @plgr1m
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-plgr1m/plgr1m is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+身に付いた言語は以下の通りです：
+-C / C++ / C#
+-Java
+-Python + Django
+-Ruby + Ruby on Rails
+-Rust
+-JavaScript + Node.js / React / React Native
+-TypeScript
+-PHP + Laravel
+-Kotlin
+-HTML / XML / XHTML
+-CSS
+-Oracle / MySQL / Microsoft SQL / PostgreSQL
+-MongoDB

@@ -4,7 +4,7 @@
 -Python + Django
 -Ruby + Ruby on Rails
 -Rust
--JavaScript + Node.js / React / React Native
+-JavaScript + Node.js / React
 -TypeScript
 -PHP + Laravel
 -Kotlin
